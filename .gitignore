@@ -1,0 +1,14 @@
+.DS_Store
+.externalToolBuilders
+.gradle
+.idea
+*.iml
+*.ipr
+*.iws
+*.log
+.metadata
+.project
+.settings
+*.swp
+target
+
