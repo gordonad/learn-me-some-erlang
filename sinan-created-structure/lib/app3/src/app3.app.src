@@ -1,0 +1,11 @@
+%% This is the application resource file (.app file) for the,
+%% application.
+{application, app3,
+  [{description, "Your Desc HERE"},
+   {vsn, "0.1.0"},
+   {modules, [app3_app,
+              app3_sup]},
+   {registered,[app3_sup]},
+   {applications, [kernel, stdlib]},
+   {mod, {app3_app,[]}},
+   {start_phases, []}]}.
