@@ -5,7 +5,7 @@ What is "Learning Me Some Erlang"?
 Playground for the awesome ["Learn Yourself Some Erlang"](http://learnyousomeerlang.com/) book by Fred Hebert
 
 
-![Learn You Some Erlang](site/learnyousomeerlang.com/static/img/splash.jpg)
+![Learn You Some Erlang](ext/site/learnyousomeerlang.com/static/img/splash.jpg)
 
 
 ## Please help making the book even better
@@ -17,7 +17,11 @@ Fred could be also found on Twitter: [@mononcqc](http://twitter.com/mononcqc)
 ----
 
 ## Tools
- - Rebar - see: (http://alancastro.org/2010/05/01/erlang-application-management-with-rebar.html)
+ - [Rebar](http://alancastro.org/2010/05/01/erlang-application-management-with-rebar.html)
    - Using HomeBrew: _brew install --HEAD rebar_
+
+ - [Sinan](http://blog.erlware.org/2012/05/04/sinan-releases-and-being-right/)
+   - [Sinan Executable](https://github.com/erlware/sinan/sinan)
+
 
 
